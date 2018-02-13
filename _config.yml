@@ -1,3 +1,5 @@
+# baseurl: "https://indeedeng.github.io/imhotep"
+baseurl: "https://uwana-indeed.github.io/imhotep-uwana-fork/"
 name: Imhotep - Data Analytics Platform by Indeed
 # http://stackoverflow.com/questions/10759577/underscore-issues-jekyll-redcarpet-github-flavored-markdown
 markdown: kramdown
